@@ -26,6 +26,8 @@ Frame.Size = UDim2.new(0, 423, 0, 238)
 
 Frame.Active = true
 Frame.Draggable = true
+Frame.Parent = ScreenGui
+
 
 TextLabel.Parent = Frame
 TextLabel.BackgroundColor3 = Color3.fromRGB(159, 0, 0)
