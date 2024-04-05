@@ -24,6 +24,9 @@ Frame.BorderSizePixel = 0
 Frame.Position = UDim2.new(0.218298122, 0, 0.245499179, 0)
 Frame.Size = UDim2.new(0, 423, 0, 238)
 
+Frame.Active = true
+Frame.Draggable = true
+
 TextLabel.Parent = Frame
 TextLabel.BackgroundColor3 = Color3.fromRGB(159, 0, 0)
 TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
